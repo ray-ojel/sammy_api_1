@@ -5,7 +5,7 @@ Fine here's some hints:
 1. get postman
 2. use vscode to test your python code
 3. import pandas
-4. google how to create a pandas dataframe
+4. google how to convert json to pandas dataframe
 5. use git bash to clone->commit->push 
 6. expected to have one python file called fred.py that can run with no errors
 
